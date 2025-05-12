@@ -5,9 +5,9 @@
 This project aims to analyze customer reviews of the iPhone 15 from different countries (USA, UK, Brazil, etc.) using a data engineering pipeline on **Azure**. The goal is to derive insights from customer sentiment, satisfaction with specific features (e.g., camera, battery), and inform targeted marketing campaigns.
 
 ### Key Business Goals:
-- **Analyze customer sentiment by region** 🌍
-- **Identify satisfaction with product features** (e.g., battery, camera) 🔋📷
-- **Inform targeted marketing campaigns** 🎯
+- **Analyze customer sentiment by region** 
+- **Identify satisfaction with product features** (e.g., battery, camera) 
+- **Inform targeted marketing campaigns** 
 
 ### Tools & Technologies Used:
 - **Azure**: For cloud infrastructure and data processing
@@ -44,4 +44,4 @@ The following diagram illustrates the overall architecture of the pipeline:
 ### 5. Data Visualization:
 - The results are visualized in **Power BI**, showcasing customer sentiment distribution by country, customer satisfaction with features, and more.
 
-![Power BI Dashboard](Dashboard/reviews-dashboard.png)
+![Power BI Dashboard](Dashboard/reviews_dashboard.png)
